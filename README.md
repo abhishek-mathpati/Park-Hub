@@ -107,4 +107,4 @@ We aim to enhance ParkHub with the following features:
 - The map integration may not function correctly in offline mode.
 
 ## Contact
-For any inquiries or feedback, please contact [abhisamshek1212@gmail.com].
+- For authorised evaluation or demonstration requests, please contact the repository maintainer.
