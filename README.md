@@ -34,14 +34,6 @@ This application not only helps users locate available parking spots but also in
 - <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> </a> **Firebase:** For real-time database management, authentication, and backend services.
 
 
-## Installation
-
-To set up the ParkHub application locally for development, follow these steps:
-
-1. **Clone the repository:**  
-   ```bash
-   git clone https://github.com/Mr-Sam1289/Park-Hub.git
-
 ## User Interface Overview
 <div align="center">
     <a href="https://raw.githubusercontent.com/Mr-Sam1289/Park-Hub/my-new-branch/Docs/APP%20Screens/Home%20Screen.png" target="_blank" rel="noreferrer">
