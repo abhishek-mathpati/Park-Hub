@@ -29,6 +29,17 @@ This application not only helps users locate available parking spots but also in
 - **Secured Transactions:** Guarantees the safety of all financial transactions.
 - **Parking Spot Availability:** Displays real-time availability of parking spots.
 
+## Demonstration & Evaluation
+
+This repository does **not** provide a public APK download.
+
+A demonstration APK is available **upon request** for:
+- Academic evaluation
+- Authorised institutional review
+- Project demonstrations
+
+Requests should include appropriate context and justification.
+
 ## Technologies Used
 - <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="20" height="20"/> </a> **Flutter:** For building a responsive and user-friendly cross-platform mobile application.
 - <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="20" height="20"/> </a> **Firebase:** For real-time database management, authentication, and backend services.
@@ -90,8 +101,9 @@ We welcome contributions to the ParkHub project! If you're interested in contrib
 4. **Push Your Branch**: Push your changes to your forked repository.
 5. **Submit a Pull Request**: Go to the original repository, click on "Pull Requests," and then "New Pull Request" to submit your changes for review.
 
-## License
-This project does not currently have a specified license. Feel free to use the code for personal projects, but please ensure you give appropriate credit where due.
+## 📜 License
+
+This project is licensed under the **MIT License**.
 
 ## Future Work
 We aim to enhance ParkHub with the following features:
